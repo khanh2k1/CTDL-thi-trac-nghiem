@@ -1,0 +1,42 @@
+
+/*/ CHUONG TRINH TU DONG VIET HOA
+
+
+===================================================
+Chuc nang giao vien
+(TU DONG VIET HOA)
+tai khoan: GV
+mat khau: GV
+===================================================
+
+
+===================================================
+chuc nang sinh vien
+(TU DONG VIET HOA)
+tai khoan : N19DCCN1
+mat khau : N19DCCN1
+===================================================
+
+
+
+
+CHU THICH : THU TU DOC FILE
+===================================================
+2             // SO LOP HOC
+D19CQCN01-N   // MA LOP HOC
+CONG NGHE 1   // TEN LOP HOC
+3             // SO SINH VIEN
+LE VAN        // HO VA TEN LOT
+A             // TEN CHINH
+NAM           // GIOI TINH
+N19DCCN1       // MA SINH VIEN - TEN DANG NHAP
+N19DCCN1      // MAT KHAU DANG NHAP
+0             // SO MON DA THI CUA 1 SINH VIEN
+===================================================      
+          
+        
+
+   
+        
+
+
